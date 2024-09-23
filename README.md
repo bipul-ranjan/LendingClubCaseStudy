@@ -39,10 +39,13 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 ## Conclusions
 - Loan Grade D,E,F and G has higher % of Defaulters ~50% in comparision of  ~28% for fully paid
 
+- Debt Consolidation Purpose has highest %[54.9%] for charged off loan
+
 - Loan taken for “Small Business” purpose has maximum defaulters ~22% [After removing Debt Consideration Type]
 
 - Interest rate 11-17% has highest % of Defaulters
 
+- ~85% of the charged off loan is of amount less than 21,000
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
